@@ -1,0 +1,762 @@
+# Translation of Plugins - Activity Log – Monitor User and Agent Changes - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Activity Log – Monitor User and Agent Changes - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-09-09 10:09:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.1.0\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Activity Log – Monitor User and Agent Changes - Stable (latest release)\n"
+
+#: classes/class-aal-rest.php:234
+msgid "Log erasure is disabled."
+msgstr "El borrado de registros está desactivado."
+
+#: classes/class-aal-rest.php:213
+msgid "Invalid IP source."
+msgstr "Fuente de IP no válida."
+
+#. translators: %s: option key name
+#: classes/class-aal-rest.php:202
+msgid "%s must be \"yes\" or \"no\"."
+msgstr "%s debe ser «yes» o «no»."
+
+#: classes/class-aal-rest.php:188
+msgid "logs_lifespan must be a non-negative number or empty."
+msgstr "logs_lifespan debe ser un número no negativo o estar vacío."
+
+#: classes/class-aal-rest.php:145
+msgid "Select the source of the visitor IP address. For example, if you are using Cloudflare, select HTTP_CF_CONNECTING_IP. Please note: if you choose \"Do not collect IP\", the IP column will be hidden in the log."
+msgstr "Selecciona la fuente de la dirección IP del visitante. Por ejemplo, si usas Cloudflare, selecciona HTTP_CF_CONNECTING_IP. Ten en cuenta: si eliges «No recopilar IP», la columna IP se ocultará en el registro."
+
+#: classes/class-aal-rest.php:91
+msgid "Invalid or missing settings nonce."
+msgstr "Nonce de ajustes no válido o falta."
+
+#: classes/class-aal-rest.php:81
+msgid "You do not have permission to manage settings."
+msgstr "No tienes permisos para gestionar ajustes."
+
+#. Plugin Name of the plugin
+#: aryo-activity-log.php
+msgid "Activity Log – Monitor User and Agent Changes"
+msgstr "Registro de actividad - Supervisa los cambios de usuarios y agentes"
+
+#: classes/class-aal-rest.php:355
+msgid "Invalid promotion ID."
+msgstr "ID de promoción no válido."
+
+#: classes/class-aal-rest.php:72
+msgid "You do not have permission to view activity logs."
+msgstr "No tienes permiso para ver los registros de actividad."
+
+#: classes/class-aal-admin-ui.php:39 classes/class-aal-settings.php:58
+msgid "Activity Log: admin assets are not built. Run `npm run build` in the plugin directory."
+msgstr "Registros de actividad: los assets de administración no están compilados. Ejecuta npm run build en el directorio del plugin."
+
+#. translators: %s: Class name.
+#: aryo-activity-log.php:139
+msgid "Unserializing instances of the singleton \"%s\" class is forbidden."
+msgstr "Deserializar instancias de la clase singleton «%s» está prohibido."
+
+#. translators: %s: Class name.
+#: aryo-activity-log.php:119
+msgid "Cloning instances of the singleton \"%s\" class is forbidden."
+msgstr "Clonar instancias de la clase singleton «%s» está prohibido."
+
+#: classes/class-aal-maintenance.php:239
+msgid "Run Database Upgrade"
+msgstr "Ejecutar la actualización de la base de datos"
+
+#: classes/class-aal-maintenance.php:238
+msgid "This operation may take a while on large tables. Continue?"
+msgstr "Esta operación puede llevar un tiempo en tablas grandes. ¿Continuar?"
+
+#: classes/class-aal-maintenance.php:236
+msgid "We've updated Activity Log with new features and database optimizations. Because your activity log table is large, please run the manual upgrade to complete the update."
+msgstr "Hemos actualizado Activity Log con nuevas características y optimizaciones de base de datos. Debido a que tu tabla de registro de actividad es grande, ejecuta la actualización manual para completar la actualización."
+
+#: classes/class-aal-maintenance.php:235
+msgid "Activity Log: Database Update Required"
+msgstr "Activity Log: actualización de la base de datos necesaria"
+
+#: classes/class-aal-maintenance.php:216
+msgid "Activity Log: Database upgrade failed. Please try again."
+msgstr "Activity Log: la actualización de la base de datos falló. Inténtalo de nuevo."
+
+#: classes/class-aal-maintenance.php:208
+msgid "The database update process is now complete. Thank you for updating to the latest version!"
+msgstr "El proceso de actualización de la base de datos ha finalizado. ¡Gracias por actualizar a la última versión!"
+
+#: classes/class-aal-api.php:323
+msgid "WP-Cron"
+msgstr "WP-Cron"
+
+#: classes/class-aal-api.php:322
+msgid "WP-CLI"
+msgstr "WP-CLI"
+
+#: classes/class-aal-api.php:321
+msgid "XML-RPC"
+msgstr "XML-RPC"
+
+#: classes/class-aal-api.php:320
+msgid "REST API"
+msgstr "API REST"
+
+#: classes/class-aal-api.php:319
+msgid "WP Abilities"
+msgstr "WP Abilities"
+
+#: classes/class-aal-export.php:69 classes/class-aal-log-query.php:392
+#: classes/class-aal-privacy.php:138 classes/class-aal-privacy.php:140
+msgid "App Password"
+msgstr "Contraseña de aplicación"
+
+#: classes/class-aal-export.php:70 classes/class-aal-privacy.php:90
+#: assets/js/admin/build/index.js:1
+msgid "Source"
+msgstr "Fuente"
+
+#: classes/class-aal-rest.php:433
+msgid "Install Plugin"
+msgstr "Instalar plugin"
+
+#: classes/class-aal-rest.php:432
+msgid "Activate Plugin"
+msgstr "Activar plugin"
+
+#: classes/class-aal-rest.php:383
+msgid "Reduce image sizes without losing quality and improve your site speed."
+msgstr "Reduce tamaños de imagen sin perder calidad y mejora la velocidad de tu sitio."
+
+#: classes/class-aal-rest.php:382
+msgid "Optimize Your Images for a Faster Website!"
+msgstr "¡Optimiza tus imágenes para tener una web más rápida!"
+
+#: classes/class-aal-rest.php:377
+msgid "Use Site Mailer for improved email deliverability, detailed email logs, and an easy setup."
+msgstr "Usar el servicio de envío del sitio para mejorar la entrega de correos electrónicos, registros detallados de correos y fácil configuración."
+
+#: classes/class-aal-rest.php:376
+msgid "Ensure your emails avoid the spam folder!"
+msgstr "¡Asegúrate de que tus correos electrónicos eviten la carpeta de spam!"
+
+#: i18n/strings.php:61
+msgid "All New Versions"
+msgstr "Todas las nuevas versiones"
+
+#: i18n/strings.php:39
+msgid "auto_update_enabled"
+msgstr "auto_update_enabled"
+
+#: i18n/strings.php:38
+msgid "auto_update_disabled"
+msgstr "auto_update_disabled"
+
+#: classes/class-aal-rest.php:138
+msgid "Don't Keep"
+msgstr "No mantener"
+
+#: classes/class-aal-rest.php:134
+msgid "Keep Email Logs"
+msgstr "Mantener registros de correo electrónico"
+
+#: i18n/strings.php:66
+msgid "failed"
+msgstr "fallido"
+
+#: i18n/strings.php:65
+msgid "sent"
+msgstr "enviado"
+
+#: i18n/strings.php:64
+msgid "Emails"
+msgstr "Correos electrónicos"
+
+#. Description of the plugin
+#: aryo-activity-log.php
+msgid "This top rated Activity Log plugin helps you monitor & log all changes and actions on your WordPress site, so you can remain secure and organized."
+msgstr "El plugin Activity Log te ayuda a controlar y registrar todos los cambios y acciones en tu sitio WordPress, para que puedas mantenerte seguro y organizado."
+
+#: classes/class-aal-rest.php:156
+msgid "Do not collect IP"
+msgstr "No recopilar IP"
+
+#: classes/class-aal-rest.php:143
+msgid "Visitor IP Detected"
+msgstr "Detectada la IP del visitante"
+
+#: i18n/strings.php:152
+msgid "wp_page_for_privacy_policy"
+msgstr "pagina_de_wp_de_politica_de_privacidad"
+
+#: i18n/strings.php:85
+msgid "WPLANG"
+msgstr "WPLANG"
+
+#: i18n/strings.php:55
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: i18n/strings.php:52
+msgid "Menus"
+msgstr "Menús"
+
+#: i18n/strings.php:46
+msgid "Widgets"
+msgstr "Widgets"
+
+#: i18n/strings.php:42
+msgid "Themes"
+msgstr "Temas"
+
+#: i18n/strings.php:20
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#: i18n/strings.php:12
+msgid "Posts"
+msgstr "Entradas"
+
+#: classes/class-aal-log-presenter.php:240
+msgid "Username:"
+msgstr "Nombre de usuario:"
+
+#: classes/class-aal-export.php:73 classes/class-aal-privacy.php:76
+#: assets/js/admin/build/index.js:1
+msgid "Meta"
+msgstr "Meta"
+
+#: classes/class-aal-export.php:72 classes/class-aal-privacy.php:72
+#: assets/js/admin/build/index.js:1
+msgid "Context"
+msgstr "Contexto"
+
+#: classes/class-aal-export.php:71 classes/class-aal-privacy.php:68
+#: assets/js/admin/build/index.js:1
+msgid "Topic"
+msgstr "Debate"
+
+#: classes/class-aal-rest.php:129
+msgid "Don't Keep (Not recommended)"
+msgstr "No mantener (no recomendado)"
+
+#: classes/class-aal-rest.php:128 classes/class-aal-rest.php:137
+msgid "Keep"
+msgstr "Mantener"
+
+#: classes/class-aal-rest.php:125
+msgid "Keep Failed Login Logs"
+msgstr "Guardar los registros de accesos fallidos"
+
+#: i18n/strings.php:29
+msgid "removed"
+msgstr "eliminado"
+
+#: i18n/strings.php:28
+msgid "registered"
+msgstr " registrado"
+
+#: i18n/strings.php:27
+msgid "failed_login"
+msgstr "acceso_fallido"
+
+#: i18n/strings.php:21
+msgid "uploaded"
+msgstr "subido"
+
+#. Author URI of the plugin
+#: aryo-activity-log.php
+msgid "https://activitylog.io/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://activitylog.io/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the plugin
+#: aryo-activity-log.php
+msgid "Activity Log Team"
+msgstr "Activity Log Team"
+
+#. Plugin URI of the plugin
+#: aryo-activity-log.php
+msgid "https://activitylog.io/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://activitylog.io/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#: classes/class-aal-privacy.php:117
+msgid "If you are a registered user, we save your content activity like create/update/delete posts and comments."
+msgstr "Si eres un usuario registrado, guardamos la actividad de tu contenido, como crear/actualizar/borrar entradas y comentarios."
+
+#: classes/class-aal-privacy.php:60
+msgid "Time"
+msgstr "Hora"
+
+#: classes/class-aal-privacy.php:19
+msgid "Activity Log Plugin"
+msgstr "Plugin de registro de actividad"
+
+#: classes/class-aal-admin-ui.php:11 classes/class-aal-admin-ui.php:23
+msgctxt "Page and Menu Title"
+msgid "Activity Log"
+msgstr "Registro de actividad"
+
+#: i18n/strings.php:17
+msgid "restored"
+msgstr "restaurado"
+
+#: i18n/strings.php:24
+msgid "Users"
+msgstr "Usuarios"
+
+#: i18n/strings.php:32
+msgid "Plugins"
+msgstr "Plugins"
+
+#: classes/class-aal-log-presenter.php:137 classes/class-aal-log-query.php:336
+msgid "N/A"
+msgstr "N/D"
+
+#: i18n/strings.php:156
+msgid "downloaded"
+msgstr "descargado"
+
+#: i18n/strings.php:155
+msgid "Export"
+msgstr "Exportar"
+
+#: i18n/strings.php:149
+msgid "tag_base"
+msgstr "tag_base"
+
+#: i18n/strings.php:148
+msgid "category_base"
+msgstr "category_base"
+
+#: i18n/strings.php:147
+msgid "permalink_structure"
+msgstr "permalink_structure"
+
+#: i18n/strings.php:144
+msgid "uploads_use_yearmonth_folders"
+msgstr "uploads_use_yearmonth_folders"
+
+#: i18n/strings.php:143
+msgid "large_size_h"
+msgstr "large_size_h"
+
+#: i18n/strings.php:142
+msgid "large_size_w"
+msgstr "large_size_w"
+
+#: i18n/strings.php:141
+msgid "medium_size_h"
+msgstr "medium_size_h"
+
+#: i18n/strings.php:140
+msgid "medium_size_w"
+msgstr "medium_size_w"
+
+#: i18n/strings.php:139
+msgid "thumbnail_crop"
+msgstr "thumbnail_crop"
+
+#: i18n/strings.php:138
+msgid "thumbnail_size_h"
+msgstr "thumbnail_size_h"
+
+#: i18n/strings.php:137
+msgid "thumbnail_size_w"
+msgstr "thumbnail_size_w"
+
+#: i18n/strings.php:134
+msgid "avatar_default"
+msgstr "avatar_default"
+
+#: i18n/strings.php:133
+msgid "avatar_rating"
+msgstr "avatar_rating"
+
+#: i18n/strings.php:132
+msgid "show_avatars"
+msgstr "show_avatars"
+
+#: i18n/strings.php:131
+msgid "blacklist_keys"
+msgstr "blacklist_keys"
+
+#: i18n/strings.php:130
+msgid "moderation_keys"
+msgstr "moderation_keys"
+
+#: i18n/strings.php:129
+msgid "comment_max_links"
+msgstr "comment_max_links"
+
+#: i18n/strings.php:128
+msgid "comment_whitelist"
+msgstr "comment_whitelist"
+
+#: i18n/strings.php:127
+msgid "comment_moderation"
+msgstr "comment_moderation"
+
+#: i18n/strings.php:126
+msgid "moderation_notify"
+msgstr "moderation_notify"
+
+#: i18n/strings.php:125
+msgid "comments_notify"
+msgstr "comments_notify"
+
+#: i18n/strings.php:124
+msgid "comment_order"
+msgstr "comment_order"
+
+#: i18n/strings.php:123
+msgid "default_comments_page"
+msgstr "default_comments_page"
+
+#: i18n/strings.php:122
+msgid "comments_per_page"
+msgstr "comments_per_page"
+
+#: i18n/strings.php:121
+msgid "page_comments"
+msgstr "page_comments"
+
+#: i18n/strings.php:120
+msgid "thread_comments_depth"
+msgstr "thread_comments_depth"
+
+#: i18n/strings.php:119
+msgid "thread_comments"
+msgstr "thread_comments"
+
+#: i18n/strings.php:118
+msgid "close_comments_days_old"
+msgstr "close_comments_days_old"
+
+#: i18n/strings.php:117
+msgid "close_comments_for_old_posts"
+msgstr "close_comments_for_old_posts"
+
+#: i18n/strings.php:116
+msgid "comment_registration"
+msgstr "comment_registration"
+
+#: i18n/strings.php:115
+msgid "require_name_email"
+msgstr "require_name_email"
+
+#: i18n/strings.php:114
+msgid "default_comment_status"
+msgstr "default_comment_status"
+
+#: i18n/strings.php:113
+msgid "default_ping_status"
+msgstr "default_ping_status"
+
+#: i18n/strings.php:112
+msgid "default_pingback_flag"
+msgstr "default_pingback_flag"
+
+#: i18n/strings.php:109
+msgid "blog_public"
+msgstr "blog_public"
+
+#: i18n/strings.php:108
+msgid "rss_use_excerpt"
+msgstr "rss_use_excerpt"
+
+#: i18n/strings.php:107
+msgid "posts_per_rss"
+msgstr "posts_per_rss"
+
+#: i18n/strings.php:106
+msgid "posts_per_page"
+msgstr "posts_per_page"
+
+#: i18n/strings.php:105
+msgid "page_for_posts"
+msgstr "page_for_posts"
+
+#: i18n/strings.php:104
+msgid "page_on_front"
+msgstr "page_on_front"
+
+#: i18n/strings.php:103
+msgid "show_on_front"
+msgstr "show_on_front"
+
+#: i18n/strings.php:100
+msgid "ping_sites"
+msgstr "ping_sites"
+
+#: i18n/strings.php:99
+msgid "default_email_category"
+msgstr "default_email_category"
+
+#: i18n/strings.php:98
+msgid "mailserver_pass"
+msgstr "mailserver_pass"
+
+#: i18n/strings.php:97
+msgid "mailserver_login"
+msgstr "mailserver_login"
+
+#: i18n/strings.php:96
+msgid "mailserver_url"
+msgstr "mailserver_url"
+
+#: i18n/strings.php:95
+msgid "default_post_format"
+msgstr "default_post_format"
+
+#: i18n/strings.php:94
+msgid "default_category"
+msgstr "default_category"
+
+#: i18n/strings.php:93
+msgid "use_balanceTags"
+msgstr "use_balanceTags"
+
+#: i18n/strings.php:92
+msgid "use_smilies"
+msgstr "use_smilies"
+
+#: i18n/strings.php:89
+msgid "start_of_week"
+msgstr "start_of_week"
+
+#: i18n/strings.php:88
+msgid "time_format"
+msgstr "time_format"
+
+#: i18n/strings.php:87
+msgid "date_format"
+msgstr "date_format"
+
+#: i18n/strings.php:86
+msgid "timezone_string"
+msgstr "timezone_string"
+
+#: i18n/strings.php:84
+msgid "default_role"
+msgstr "default_role"
+
+#: i18n/strings.php:83
+msgid "users_can_register"
+msgstr "users_can_register"
+
+#: i18n/strings.php:82
+msgid "admin_email"
+msgstr "admin_email"
+
+#: i18n/strings.php:81
+msgid "home"
+msgstr "home"
+
+#: i18n/strings.php:80
+msgid "siteurl"
+msgstr "siteurl"
+
+#: i18n/strings.php:79
+msgid "blogdescription"
+msgstr "blogdescription"
+
+#: i18n/strings.php:78
+msgid "blogname"
+msgstr "blogname"
+
+#: i18n/strings.php:75
+msgid "unspammed"
+msgstr "unspammed"
+
+#: i18n/strings.php:74
+msgid "spammed"
+msgstr "spammed"
+
+#: i18n/strings.php:73
+msgid "untrashed"
+msgstr "untrashed"
+
+#: i18n/strings.php:16
+msgid "trashed"
+msgstr "trashed"
+
+#: i18n/strings.php:72
+msgid "unapproved"
+msgstr "unapproved"
+
+#: i18n/strings.php:71
+msgid "approved"
+msgstr "approved"
+
+#: i18n/strings.php:70
+msgid "pending"
+msgstr "pendiente"
+
+#: i18n/strings.php:69
+msgid "Comments"
+msgstr "Comentarios"
+
+#: i18n/strings.php:60
+msgid "WordPress Auto Updated"
+msgstr "WordPress actualizado automáticamente"
+
+#: i18n/strings.php:59
+msgid "WordPress Updated"
+msgstr "WordPress actualizado"
+
+#: i18n/strings.php:58
+msgid "Core"
+msgstr "Núcleo"
+
+#: i18n/strings.php:166
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: i18n/strings.php:165
+msgid "Menu"
+msgstr "Menú"
+
+#: i18n/strings.php:49
+msgid "Options"
+msgstr "Opciones"
+
+#: i18n/strings.php:164
+msgid "Widget"
+msgstr "Widget"
+
+#: i18n/strings.php:43
+msgid "Theme Customizer"
+msgstr "Personalizador de temas"
+
+#: i18n/strings.php:163
+msgid "Theme"
+msgstr "Tema"
+
+#: i18n/strings.php:36
+msgid "File Updated"
+msgstr "Archivo actualizado"
+
+#: i18n/strings.php:35
+msgid "installed"
+msgstr "instalado"
+
+#: i18n/strings.php:34
+msgid "deactivated"
+msgstr "desactivado"
+
+#: i18n/strings.php:33
+msgid "activated"
+msgstr "activado"
+
+#: i18n/strings.php:162
+msgid "Plugin"
+msgstr "Plugin"
+
+#: i18n/strings.php:26
+msgid "logged_in"
+msgstr "logged_in"
+
+#: i18n/strings.php:25
+msgid "logged_out"
+msgstr "logged_out"
+
+#: i18n/strings.php:160
+msgid "Attachment"
+msgstr "Adjunto"
+
+#: i18n/strings.php:15 i18n/strings.php:37
+msgid "deleted"
+msgstr "deleted"
+
+#: i18n/strings.php:14
+msgid "updated"
+msgstr "actualizado"
+
+#: i18n/strings.php:13
+msgid "created"
+msgstr "creado"
+
+#: i18n/strings.php:159
+msgid "Post"
+msgstr "Entrada"
+
+#: i18n/strings.php:9
+msgid "Editor"
+msgstr "Editor"
+
+#: i18n/strings.php:8
+msgid "Administrator"
+msgstr "Administrador"
+
+#: i18n/strings.php:6
+msgid "Get aware of any activities that are taking place on your dashboard! Imagine it like a black-box for your WordPress site. e.g. post was deleted, plugin was activated, user logged in or logged out - it's all these for you to see."
+msgstr "¡Sé consciente de cualquier actividad que se esté llevando a cabo en tu escritorio! Imagínalo como una caja negra para tu sitio WordPress. Por ejemplo, se ha borrado una entrada, se activó un plugin, un usuario accedió o se desconectó - todo está ahí para que lo veas."
+
+#: hooks/class-aal-hook-posts.php:10
+msgid "(no title)"
+msgstr "(sin título)"
+
+#: classes/class-aal-export.php:68 i18n/strings.php:161
+#: assets/js/admin/build/index.js:1
+msgid "User"
+msgstr "Usuario"
+
+#: classes/class-aal-maintenance.php:245
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tiene los suficientes permisos para acceder esta página."
+
+#: classes/class-aal-rest.php:120
+msgid "Maximum number of days to keep activity log. Leave blank to keep activity log forever (not recommended)."
+msgstr "Número máximo de días para mantener el registro de actividad. Déjalo en blanco para mantener el registro de actividad para siempre (no recomendado)."
+
+#: classes/class-aal-rest.php:121
+msgid "days."
+msgstr "días."
+
+#: classes/class-aal-rest.php:118
+msgid "Keep logs for"
+msgstr "Mantener el registro durante"
+
+#: classes/class-aal-settings.php:38 classes/class-aal-settings.php:114
+msgid "Activity Log Settings"
+msgstr "Ajustes del registro de actividad"
+
+#: classes/class-aal-settings.php:24 classes/class-aal-settings.php:39
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/class-aal-privacy.php:53 classes/class-aal-privacy.php:120
+#: classes/class-aal-settings.php:21 i18n/strings.php:5
+msgid "Activity Log"
+msgstr "Activity Log"
+
+#: classes/class-aal-log-presenter.php:246
+msgid "All"
+msgstr "Todo"
+
+#: classes/class-aal-log-presenter.php:121
+msgid "Unknown"
+msgstr "Desconocido"
+
+#. translators: %s: human time diff
+#: classes/class-aal-log-presenter.php:102
+msgid "%s ago"
+msgstr "Hace %s"
+
+#: classes/class-aal-export.php:74 classes/class-aal-privacy.php:64
+#: assets/js/admin/build/index.js:1
+msgid "Action"
+msgstr "Acción"
+
+#: classes/class-aal-export.php:146 classes/class-aal-privacy.php:80
+msgid "IP"
+msgstr "IP"
+
+#: classes/class-aal-export.php:67 assets/js/admin/build/index.js:1
+msgid "Date"
+msgstr "Fecha"

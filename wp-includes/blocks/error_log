@@ -1,0 +1,4 @@
+[06-Oct-2024 05:49:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/airinosg4stro/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/airinosg4stro/public_html/wp-includes/blocks/index.php on line 8

@@ -1,0 +1,75 @@
+09/15/26 17:13:47.596 [188.26.197.166:51505 1 pnQ] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php ? page=litespeed-toolbox&LSCWP_CTRL=PURGE_EMPTYCACHE&LS...
+09/15/26 17:13:47.596 [188.26.197.166:51505 1 pnQ] HTTP_REFERER: https://airinosgastro.com/wp-admin/admin.php?page=lit...
+09/15/26 17:13:47.596 [188.26.197.166:51505 1 pnQ] LSCACHE_VARY_VALUE: +webp
+09/15/26 17:13:47.597 [188.26.197.166:51505 1 pnQ] X-LiteSpeed-Purge: public,* => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523
+
+
+
+
+09/15/26 17:14:01.248 [188.26.213.58:51447 1 ZyY] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-json/optimization-detective/v1/url-metrics:store ? slug=a1f1defd55b03de6b7b35c39813f8295&current_etag=07...
+09/15/26 17:14:01.248 [188.26.213.58:51447 1 ZyY] HTTP_REFERER: https://airinosgastro.com/es/menu-diario/
+09/15/26 17:14:01.248 [188.26.213.58:51447 1 ZyY] Cookie _lscache_vary: guest_mode:1
+09/15/26 17:14:01.248 [188.26.213.58:51447 1 ZyY] LSCACHE_VARY_VALUE: +ismobile
+09/15/26 17:14:01.249 [188.26.213.58:51447 1 ZyY] X-LiteSpeed-Purge: public,7bc_Po.2463,7bc_URL./,7bc_W.recent-posts-1,7bc_FD,7bc_A.0,7bc_F,7bc_H,7bc_PGS,7bc_PGSRP,7bc_D.202504,7bc_REST => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523
+
+
+
+
+09/15/26 17:20:42.135 [188.26.197.166:63603 1 Jk2] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php ? page=litespeed-page_optm&LSCWP_CTRL=purge&LSCWP_NONCE...
+09/15/26 17:20:42.135 [188.26.197.166:63603 1 Jk2] HTTP_REFERER: https://airinosgastro.com/wp-admin/admin.php?page=lit...
+09/15/26 17:20:42.135 [188.26.197.166:63603 1 Jk2] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+09/15/26 17:20:42.135 [188.26.197.166:63603 1 Jk2] LSCACHE_VARY_VALUE: +webp
+09/15/26 17:20:42.135 [188.26.197.166:63603 1 Jk2] X-LiteSpeed-Purge: public,7bc_ => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523
+
+
+
+
+09/15/26 17:21:44.457 [188.26.197.166:63603 1 RIH] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/theme-editor.php ? file=functions.php&theme=AiriosGastro&LSCWP_CTRL=purg...
+09/15/26 17:21:44.457 [188.26.197.166:63603 1 RIH] HTTP_REFERER: https://airinosgastro.com/wp-admin/theme-editor.php?f...
+09/15/26 17:21:44.457 [188.26.197.166:63603 1 RIH] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+09/15/26 17:21:44.457 [188.26.197.166:63603 1 RIH] LSCACHE_VARY_VALUE: +webp
+09/15/26 17:21:44.458 [188.26.197.166:63603 1 RIH] X-LiteSpeed-Purge: public,7bc_ => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523
+
+
+
+
+09/15/26 17:24:04.336 [188.26.197.166:36948 1 oYE] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-json/optimization-detective/v1/url-metrics:store ? slug=d751713988987e9331980363e24189ce&current_etag=bb...
+09/15/26 17:24:04.336 [188.26.197.166:36948 1 oYE] HTTP_REFERER: https://airinosgastro.com/
+09/15/26 17:24:04.336 [188.26.197.166:36948 1 oYE] Cookie _lscache_vary: guest_mode:1
+09/15/26 17:24:04.336 [188.26.197.166:36948 1 oYE] LSCACHE_VARY_VALUE: +ismobile
+09/15/26 17:24:04.336 [188.26.197.166:36948 1 oYE] X-LiteSpeed-Purge: public,7bc_Po.2464,7bc_URL./,7bc_W.recent-posts-1,7bc_FD,7bc_A.1,7bc_F,7bc_H,7bc_PGS,7bc_PGSRP,7bc_D.202504,7bc_REST => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523
+
+
+
+
+09/15/26 17:39:12.680 [188.26.197.166:55053 1 5Ac] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/theme-editor.php ? file=functions.php&theme=AiriosGastro&LSCWP_CTRL=purg...
+09/15/26 17:39:12.680 [188.26.197.166:55053 1 5Ac] HTTP_REFERER: https://airinosgastro.com/wp-admin/theme-editor.php?f...
+09/15/26 17:39:12.680 [188.26.197.166:55053 1 5Ac] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+09/15/26 17:39:12.680 [188.26.197.166:55053 1 5Ac] LSCACHE_VARY_VALUE: +webp
+09/15/26 17:39:12.680 [188.26.197.166:55053 1 5Ac] X-LiteSpeed-Purge: public,7bc_ => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523
+
+
+
+
+09/15/26 17:40:35.712 [88.12.94.59:59041 1 RSj] 💓 ------POST HTTP/1.1 (HTTPS)  /wp-json/optimization-detective/v1/url-metrics:store ? slug=8728265ed2851567629d9fa8bd7adab4&current_etag=c4...
+09/15/26 17:40:35.712 [88.12.94.59:59041 1 RSj] HTTP_REFERER: https://airinosgastro.com/es/nuestro-menu/
+09/15/26 17:40:35.712 [88.12.94.59:59041 1 RSj] Cookie _lscache_vary: guest_mode:1
+09/15/26 17:40:35.712 [88.12.94.59:59041 1 RSj] LSCACHE_VARY_VALUE: +ismobile
+09/15/26 17:40:35.712 [88.12.94.59:59041 1 RSj] X-LiteSpeed-Purge: public,7bc_Po.2467,7bc_URL./,7bc_W.recent-posts-1,7bc_FD,7bc_A.0,7bc_F,7bc_H,7bc_PGS,7bc_PGSRP,7bc_D.202504,7bc_REST => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523
+
+
+
+
+09/15/26 17:41:16.169 [188.26.197.166:55053 1 S0I] 💓 ------GET HTTP/1.1 (HTTPS)  /wp-admin/admin.php ? page=litespeed-toolbox&LSCWP_CTRL=PURGE_EMPTYCACHE&LS...
+09/15/26 17:41:16.169 [188.26.197.166:55053 1 S0I] HTTP_REFERER: https://airinosgastro.com/wp-admin/admin.php?page=lit...
+09/15/26 17:41:16.169 [188.26.197.166:55053 1 S0I] Cookie _lscache_vary: admin_bar:1;guest_mode:1;logged-in:1;role:99
+09/15/26 17:41:16.169 [188.26.197.166:55053 1 S0I] LSCACHE_VARY_VALUE: +webp
+09/15/26 17:41:16.170 [188.26.197.166:55053 1 S0I] X-LiteSpeed-Purge: public,* => LiteSpeed\LSC->send_headers()@626 => WP_Hook->apply_filters(,ARRAY)@353 => WP_Hook->do_action(ARRAY)@377 => 
+/home/airinosg4stro/public_html/wp-includes/load.php@523

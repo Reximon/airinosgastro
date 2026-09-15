@@ -1,0 +1,9 @@
+{
+  "extensions": [
+    {
+      "target": "crm.navigation",
+      "label": "Buscar por CP",
+      "url": "https://airinosgastro.com/hubspot/index.php"
+    }
+  ]
+}

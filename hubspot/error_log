@@ -1,0 +1,4 @@
+[12-Jun-2025 10:02:21 UTC] PHP Warning:  file_get_contents(token.json): Failed to open stream: No such file or directory in /home/airinosg4stro/public_html/hubspot/buscar.php on line 2
+[12-Jun-2025 10:02:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/airinosg4stro/public_html/hubspot/buscar.php on line 3
+[12-Jun-2025 10:02:22 UTC] PHP Warning:  file_get_contents(token.json): Failed to open stream: No such file or directory in /home/airinosg4stro/public_html/hubspot/buscar.php on line 2
+[12-Jun-2025 10:02:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/airinosg4stro/public_html/hubspot/buscar.php on line 3

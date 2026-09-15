@@ -1,0 +1,8 @@
+# Airiños Gastro
+
+> Restaurante de cocina gallega tradicional y de vanguardia en el centro de Madrid.
+
+## Secciones principales
+- [Carta y Menú del Día](https://airinosgastro.com/carta): Platos tradicionales, mariscos y carnes.
+- [Reservas](https://airinosgastro.com/reservas): Reserva de mesa online y grupos.
+- [Contacto y Ubicación](https://airinosgastro.com/contacto): Dirección, teléfono y horarios de apertura.
